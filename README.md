@@ -1,4 +1,4 @@
-# Banner p/ Telão - temperatura do dia
+# Banner p/ telão - previsão do temp
 
 > Banner animado de 10s que busca informação de temperatura através de apis e apresenta elas com elementos do clima animados.
 
@@ -10,16 +10,15 @@ Terá também os elementos do clima animados para deixar mais ilustrativo a info
 
 ## Anotações
 
-TELÃO - VIDEOS - 10s
+// TELÃO - VIDEOS - 10s - 256 X 96 px
 
-256 X 96 - 
 Taxa de dados - 258kbs
 taxa de bits total - 590kbs
-taxa de quadros - 25 quadros/segundo
----
+taxa de quadros - 25 fps
+
 Taxa de dados - 23kbs
 taxa de bits dados - 154kbs
-taxa de quadros 29.97 quadros/segundo
+taxa de quadros 29.97 fps
 
 // FONTE PAINEL TELÃO
 número -  26px - Oswald
