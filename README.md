@@ -1,4 +1,4 @@
-# Banner p/ telão - previsão do temp
+# Banner p/ telão - previsão do tempo
 
 > Banner animado de 10s que busca informação de temperatura através de apis e apresenta elas com elementos do clima animados.
 
